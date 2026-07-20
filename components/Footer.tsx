@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import { Phone, MapPin, Clock, Instagram, Facebook, Star } from "lucide-react";
 import { business, services } from "@/lib/business";
 
@@ -9,8 +10,14 @@ export default function Footer() {
         {/* Brand */}
         <div className="lg:col-span-1">
           <Link href="/" className="flex items-center gap-2.5">
-            <span className="flex h-9 w-9 items-center justify-center rounded-lg bg-accent-gradient text-ink shadow-glow">
-              <span className="font-display text-lg font-bold">TS</span>
+            <span className="relative h-11 w-11 overflow-hidden rounded-lg ring-1 ring-white/10">
+              <Image
+                src="/images/logo.png"
+                alt="Tri-State Detailing logo"
+                fill
+                sizes="44px"
+                className="object-contain"
+              />
             </span>
             <span className="flex flex-col leading-none">
               <span className="font-display text-sm font-bold tracking-wide text-white">

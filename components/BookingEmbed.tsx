@@ -28,7 +28,7 @@ export default function BookingEmbed() {
       <div
         ref={ref}
         className="calendly-inline-widget overflow-hidden rounded-2xl border border-white/10"
-        data-url={`${business.bookingUrl}?hide_gdpr_banner=1&background_color=0b0b0e&text_color=e4e4e7&primary_color=22d3ee`}
+        data-url={`${business.bookingUrl}?hide_gdpr_banner=1&background_color=0b0b0e&text_color=e4e4e7&primary_color=fb3b41`}
         style={{ minWidth: "320px", height: "700px" }}
       />
     );

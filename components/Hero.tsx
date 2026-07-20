@@ -24,7 +24,7 @@ export default function Hero() {
       <div className="pointer-events-none absolute inset-0 -z-10">
         {/* Cinematic car background */}
         <Image
-          src="/images/hero-garage.jpg"
+          src="/images/gallery-r8.jpg"
           alt=""
           fill
           priority

@@ -6,11 +6,11 @@ const gradients: Record<Variant, string> = {
   // Dull, grimy, desaturated — the "before"
   before:
     "linear-gradient(135deg, #2a2a2e 0%, #1a1a1d 40%, #232326 100%)",
-  // Glossy, reflective cyan sheen — the "after"
+  // Glossy, reflective crimson sheen — the "after"
   after:
-    "linear-gradient(120deg, #0b2b33 0%, #0e3a44 25%, #22d3ee 55%, #7dd3fc 70%, #0e3a44 100%)",
+    "linear-gradient(120deg, #2a0d10 0%, #4a1418 25%, #fb3b41 55%, #ff9a9e 70%, #4a1418 100%)",
   neutral:
-    "linear-gradient(135deg, #16161b 0%, #0e2a30 60%, #103038 100%)",
+    "linear-gradient(135deg, #16161b 0%, #2a0f11 60%, #351317 100%)",
 };
 
 /**

@@ -16,10 +16,10 @@ const config: Config = {
           600: "#1D1D23",
         },
         accent: {
-          DEFAULT: "#22D3EE", // electric cyan
-          bright: "#38BDF8", // ice blue
-          soft: "#7DD3FC",
-          deep: "#0EA5C4",
+          DEFAULT: "#FB3B41", // Tri-State brand crimson (from logo)
+          bright: "#FF6166", // lighter red — hover / glow
+          soft: "#FF9A9E",
+          deep: "#C21F26", // deep brick red (logo shadow tone)
         },
       },
       fontFamily: {
@@ -27,13 +27,13 @@ const config: Config = {
         sans: ["var(--font-body)", "system-ui", "sans-serif"],
       },
       boxShadow: {
-        glow: "0 0 40px -8px rgba(34, 211, 238, 0.35)",
-        "glow-lg": "0 0 80px -12px rgba(34, 211, 238, 0.45)",
+        glow: "0 0 40px -8px rgba(251, 59, 65, 0.38)",
+        "glow-lg": "0 0 80px -12px rgba(251, 59, 65, 0.5)",
         card: "0 20px 60px -24px rgba(0, 0, 0, 0.8)",
       },
       backgroundImage: {
-        "accent-gradient": "linear-gradient(135deg, #22D3EE 0%, #38BDF8 50%, #7DD3FC 100%)",
-        "radial-fade": "radial-gradient(60% 60% at 50% 0%, rgba(34,211,238,0.15) 0%, rgba(8,8,10,0) 70%)",
+        "accent-gradient": "linear-gradient(135deg, #FF5A5F 0%, #FB3B41 50%, #C21F26 100%)",
+        "radial-fade": "radial-gradient(60% 60% at 50% 0%, rgba(251,59,65,0.16) 0%, rgba(8,8,10,0) 70%)",
       },
       keyframes: {
         "fade-up": {
