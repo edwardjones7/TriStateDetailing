@@ -1,0 +1,246 @@
+{
+  "business": {
+    "name": "Tri-State Detailing",
+    "legal_name": "Tri-State Detailing",
+    "industry": "Automotive Detailing",
+    "category": "Car Detailing Service",
+    "description": "Tri-State Detailing is a premium automotive detailing company based in Blackwood, New Jersey, specializing in professional detailing, paint correction, ceramic coatings, window tint, and automotive appearance restoration. The company serves South Jersey drivers looking to protect and maintain the value of their vehicles through high-quality detailing services.",
+    "tagline": "South Jersey's Premier Auto Detailing Destination"
+  },
+  "contact": {
+    "phone": "(856) 392-1452",
+    "website": "https://tristatedetailing.autos",
+    "address": {
+      "street": "1421 N Black Horse Pike",
+      "city": "Blackwood",
+      "state": "NJ",
+      "zip": "08012",
+      "country": "United States"
+    }
+  },
+  "hours": {
+    "monday": "9:00 AM - 6:00 PM",
+    "tuesday": "9:00 AM - 6:00 PM",
+    "wednesday": "9:00 AM - 6:00 PM",
+    "thursday": "9:00 AM - 6:00 PM",
+    "friday": "9:00 AM - 6:00 PM",
+    "saturday": "9:00 AM - 6:00 PM",
+    "sunday": "Closed"
+  },
+  "service_area": {
+    "primary": [
+      "Blackwood",
+      "Gloucester Township",
+      "Washington Township",
+      "Deptford",
+      "Sicklerville",
+      "Sewell",
+      "Cherry Hill",
+      "Voorhees",
+      "Turnersville",
+      "South Jersey"
+    ],
+    "radius": "Approximately 30 miles"
+  },
+  "services": [
+    {
+      "name": "Interior Detailing",
+      "category": "Detailing",
+      "description": "Deep cleaning of seats, carpets, plastics, leather, vents, and interior surfaces."
+    },
+    {
+      "name": "Exterior Detailing",
+      "category": "Detailing",
+      "description": "Hand wash, clay bar treatment, decontamination, polishing, and paint protection."
+    },
+    {
+      "name": "Full Detail Packages",
+      "category": "Detailing",
+      "description": "Complete interior and exterior restoration packages."
+    },
+    {
+      "name": "Paint Correction",
+      "category": "Paint Protection",
+      "description": "Machine polishing to remove swirl marks, oxidation, scratches, and imperfections."
+    },
+    {
+      "name": "Ceramic Coatings",
+      "category": "Paint Protection",
+      "description": "Long-lasting ceramic protection for paint, gloss enhancement, and easier maintenance."
+    },
+    {
+      "name": "Ceramic Window Tint",
+      "category": "Tint",
+      "description": "Premium heat-reducing ceramic tint installation."
+    },
+    {
+      "name": "Mechanical Services",
+      "category": "Automotive",
+      "description": "General automotive mechanical services."
+    },
+    {
+      "name": "Vehicle Restoration",
+      "category": "Specialty",
+      "description": "Exterior enhancement and appearance restoration."
+    }
+  ],
+  "ideal_customers": [
+    "Luxury vehicle owners",
+    "Performance car enthusiasts",
+    "Daily commuters",
+    "Truck owners",
+    "SUV owners",
+    "New car owners",
+    "Lease return customers",
+    "Collectors",
+    "Car enthusiasts",
+    "Business fleet owners"
+  ],
+  "customer_problems": [
+    "Swirl marks",
+    "Oxidized paint",
+    "Scratched clear coat",
+    "Dirty interiors",
+    "Pet hair",
+    "Salt damage",
+    "Road grime",
+    "Faded paint",
+    "UV damage",
+    "Hard water spots",
+    "Paint contamination",
+    "Vehicle resale preparation"
+  ],
+  "competitive_advantages": [
+    "High-end detailing specialization",
+    "Professional ceramic coating installation",
+    "Paint correction expertise",
+    "Ceramic window tint services",
+    "Excellent online reputation",
+    "Strong local brand recognition",
+    "Comprehensive automotive appearance services",
+    "Attention to detail"
+  ],
+  "brand": {
+    "positioning": "Premium automotive appearance specialist",
+    "tone": [
+      "Professional",
+      "Premium",
+      "Passionate",
+      "Trustworthy",
+      "Detail-oriented"
+    ],
+    "values": [
+      "Quality craftsmanship",
+      "Customer satisfaction",
+      "Vehicle protection",
+      "Honest service",
+      "Professionalism"
+    ]
+  },
+  "online_presence": {
+    "google_rating": 4.9,
+    "google_reviews": 68,
+    "facebook": true,
+    "instagram": {
+      "username": "tristateautosgroup",
+      "display_name": "TRI-State Auto's Group",
+      "followers": 1359,
+      "following": 340,
+      "posts": 77,
+      "bio": [
+        "High-end detailing",
+        "Ceramic coatings",
+        "Paint correction",
+        "Mechanical services",
+        "Ceramic tint"
+      ]
+    }
+  },
+  "social_media": {
+    "recent_reel_views": [
+      4317,
+      5636,
+      9485,
+      472,
+      338,
+      265,
+      336,
+      319,
+      572,
+      265,
+      290,
+      572,
+      166,
+      355,
+      659,
+      434,
+      3798,
+      5362,
+      13000,
+      2580,
+      2630,
+      5106,
+      3876
+    ],
+    "content_focus": [
+      "Vehicle transformations",
+      "Before and after details",
+      "Paint correction",
+      "Ceramic coating applications",
+      "Window tint installs",
+      "Customer deliveries",
+      "Luxury vehicles",
+      "Educational detailing content"
+    ]
+  },
+  "customer_reviews": {
+    "highlights": [
+      "Excellent customer service",
+      "High-quality workmanship",
+      "Professional staff",
+      "Vehicles look brand new",
+      "Highly recommended by customers"
+    ],
+    "sample_reviews": [
+      "I highly recommend this company, they do a wonderful service.",
+      "Extremely good customer service, highly satisfied, great staff, great work!",
+      "My car looked like a brand new car when they finished detailing it."
+    ]
+  },
+  "business_goals": [
+    "Increase ceramic coating bookings",
+    "Grow recurring maintenance customers",
+    "Expand premium detailing packages",
+    "Increase local brand awareness",
+    "Generate leads through social media",
+    "Improve search visibility",
+    "Build long-term customer loyalty"
+  ],
+  "marketing_opportunities": [
+    "SEO targeting local detailing keywords",
+    "Google Business Profile optimization",
+    "Automated booking system",
+    "SMS appointment reminders",
+    "Membership maintenance plans",
+    "Email follow-up campaigns",
+    "Referral rewards program",
+    "Instagram short-form educational content",
+    "Customer before/after galleries",
+    "AI-powered lead qualification"
+  ],
+  "technology_stack": {
+    "website": true,
+    "google_business_profile": true,
+    "facebook": true,
+    "instagram": true,
+    "online_booking": "Unknown",
+    "crm": "Unknown"
+  },
+  "sales_angles": [
+    "Protect your investment with ceramic coatings.",
+    "Restore showroom-quality shine.",
+    "Increase resale value through professional detailing.",
+    "Keep your vehicle looking new year-round.",
+    "Professional-grade products with expert craftsmanship."
+  ]
+}
